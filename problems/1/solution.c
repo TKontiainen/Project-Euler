@@ -1,6 +1,4 @@
-/*
- * The solution for the first project euler problem implemented in C
- */
+// https://projecteuler.net/problem=1
 
 #include <stdio.h>
 
