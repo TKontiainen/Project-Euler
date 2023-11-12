@@ -1,6 +1,7 @@
 // https://projecteuler.net/problem=5
 
 #include <stdio.h>
+#include <stdint.h>
 
 uint64_t fact(unsigned int n)
 {
